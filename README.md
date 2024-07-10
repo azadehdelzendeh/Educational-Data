@@ -1,2 +1,3 @@
 # Educational-Data
-Prediction in educational data
+Prediction in educational 
+EDM = Educational Data Mining
